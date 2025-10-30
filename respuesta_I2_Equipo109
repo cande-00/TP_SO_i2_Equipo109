@@ -1,5 +1,5 @@
 Integrantes:
-ALFA: Candela Villamil
+ALFA: Candela Villamil Espadero
 BETA: Diaz Nahuel
 GAMMMA: Santiago Di Viesti
 
@@ -26,6 +26,9 @@ notepad respuestas_I2_Equipo109.txt
 git add respuestas_I2_Equipo109.txt
 git commit -m "respuestas"
 git push
+
+
+
 
 Respuestas:
 c-
